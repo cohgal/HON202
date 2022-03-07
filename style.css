@@ -43,3 +43,7 @@ font-family: Sans-Serif;
 .right {
     width: 30%;
 }
+
+p {
+   text-indent: 30px;
+}

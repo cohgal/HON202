@@ -12,12 +12,22 @@
 		AC50398027D5D3DE00995472 /* Introduction.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Introduction.html; sourceTree = "<group>"; };
 		AC50398127D5D99100995472 /* background.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = background.html; sourceTree = "<group>"; };
 		AC50398327D5E2C700995472 /* Bangkok_Road.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bangkok_Road.jpeg; sourceTree = "<group>"; };
+		AC50398427D5E37100995472 /* rational.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = rational.html; sourceTree = "<group>"; };
+		AC50398527D5E51C00995472 /* empty.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = empty.html; sourceTree = "<group>"; };
+		AC50398627D5E57500995472 /* methods.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = methods.html; sourceTree = "<group>"; };
+		AC50398727D5E62F00995472 /* conclusion.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = conclusion.html; sourceTree = "<group>"; };
+		AC50398927D5E6D900995472 /* references.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = references.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		AC08A61F27D5B147004B0AB0 = {
 			isa = PBXGroup;
 			children = (
+				AC50398627D5E57500995472 /* methods.html */,
+				AC50398527D5E51C00995472 /* empty.html */,
+				AC50398727D5E62F00995472 /* conclusion.html */,
+				AC50398927D5E6D900995472 /* references.html */,
+				AC50398427D5E37100995472 /* rational.html */,
 				AC50398327D5E2C700995472 /* Bangkok_Road.jpeg */,
 				AC08A62627D5BB7E004B0AB0 /* index.html */,
 				AC50398027D5D3DE00995472 /* Introduction.html */,
