@@ -1,0 +1,45 @@
+body{
+/* Change Font Families in order of avalibility */
+font-family: Sans-Serif;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #000;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #00A8AA;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #D5E7FF;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #494949;
+  color: white;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.left {
+  width: 75%;
+}
+
+.right {
+    width: 25%;
+}
