@@ -10,14 +10,18 @@
 		AC08A62627D5BB7E004B0AB0 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		AC08A62727D5BB7E004B0AB0 /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
 		AC50398027D5D3DE00995472 /* Introduction.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Introduction.html; sourceTree = "<group>"; };
+		AC50398127D5D99100995472 /* background.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = background.html; sourceTree = "<group>"; };
+		AC50398327D5E2C700995472 /* Bangkok_Road.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bangkok_Road.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		AC08A61F27D5B147004B0AB0 = {
 			isa = PBXGroup;
 			children = (
+				AC50398327D5E2C700995472 /* Bangkok_Road.jpeg */,
 				AC08A62627D5BB7E004B0AB0 /* index.html */,
 				AC50398027D5D3DE00995472 /* Introduction.html */,
+				AC50398127D5D99100995472 /* background.html */,
 				AC08A62727D5BB7E004B0AB0 /* style.css */,
 			);
 			sourceTree = "<group>";
