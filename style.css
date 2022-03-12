@@ -33,16 +33,14 @@ p { margin-top: 0; }
 .holdingcontainer{
     width: 100%;
     display: flex;
-    background: black;
-    padding: 50%;
 }
 
 .internalcontainerL{
     flex: 1;
-    background: red;
+    padding: 5%;
 }
 
 .internalcontainerR{
     flex: 1;
-    background: green;
+    padding: 5%;
 }
