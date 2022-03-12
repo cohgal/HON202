@@ -30,20 +30,3 @@ font-family: Sans-Serif;
   color: white;
 }
 
-/* Create two unequal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 10px;
-}
-
-.left {
-  width: 70%;
-}
-
-.right {
-    width: 30%;
-}
-
-p {
-   text-indent: 30px;
-}
