@@ -30,8 +30,19 @@ text-indent: 25px;
 
 p { margin-top: 0; }
 
-.columns {
-  columns: 250px 3;
-  column-rule: 1px dotted #ccc;
-  column-gap: 3em;
+.holdingcontainer{
+    width: 100%;
+    display: flex;
+    background: black;
+    padding: 50%;
+}
+
+.internalcontainerL{
+    flex: 1;
+    background: red;
+}
+
+.internalcontainerR{
+    flex: 1;
+    background: green;
 }
