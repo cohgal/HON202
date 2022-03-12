@@ -1,5 +1,4 @@
 body{
-/* Change Font Families in order of avalibility */
 font-family: Sans-Serif;
 text-indent: 25px;
 }
@@ -15,7 +14,7 @@ text-indent: 25px;
   text-decoration: none;
   color: #D6EBFA;
   padding: 16px;
- 
+  text-align:center;
 }
 
 .topnav a:hover {
@@ -27,4 +26,12 @@ text-indent: 25px;
 .topnav a.active {
   background-color: #0D75C1;
   color: white;
+}
+
+p { margin-top: 0; }
+
+.columns {
+  columns: 250px 3;
+  column-rule: 1px dotted #ccc;
+  column-gap: 3em;
 }
