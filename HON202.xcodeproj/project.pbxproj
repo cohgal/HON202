@@ -17,6 +17,7 @@
 		AC50398627D5E57500995472 /* methods.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = methods.html; sourceTree = "<group>"; };
 		AC50398727D5E62F00995472 /* conclusion.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = conclusion.html; sourceTree = "<group>"; };
 		AC50398927D5E6D900995472 /* references.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = references.html; sourceTree = "<group>"; };
+		ACB0D94D27DED953005CB6EF /* SnowMax.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SnowMax.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -33,6 +34,7 @@
 				AC50398027D5D3DE00995472 /* introduction.html */,
 				AC50398127D5D99100995472 /* background.html */,
 				AC08A62727D5BB7E004B0AB0 /* style.css */,
+				ACB0D94D27DED953005CB6EF /* SnowMax.jpeg */,
 			);
 			sourceTree = "<group>";
 		};
