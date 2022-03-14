@@ -2,9 +2,12 @@ body{
 font-family: Sans-Serif;
 text-indent: 25px;
 line-height: 1.5;
+background-color: #D8EBF9;
 }
 
 .topnav{
+  text-indent: 0px;
+  line-height: 1;
   display: flex;
   flex-wrap: wrap;
   background-color: #3299E5;
@@ -53,4 +56,13 @@ p { margin-top: 0; }
   padding: 3em;
 }
 
-
+.quote {
+  margin: 0;
+  background: #eee;
+  padding: 1em;
+  border-radius: 1em;
+}
+.quote figcaption,
+.quote blockquote {
+  margin: 1em;
+}
